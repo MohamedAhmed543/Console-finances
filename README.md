@@ -1,1 +1,1 @@
-# Console-finances
+# Console-finances-JS-fundamentals
